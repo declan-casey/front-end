@@ -1,12 +1,13 @@
 import React from 'react';
-
+import Header from "./Header"
 const Home = () => {
 
 
 
     return(
         <div>
-            Home sample DOM
+            
+            Home sample DOM hi
         </div>
     )
 }
